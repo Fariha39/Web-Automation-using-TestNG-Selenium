@@ -20,17 +20,13 @@ This project automates user and admin flows for [Daily Finance](https://dailyfin
 
 - *Install JDK 17 and IntelliJ IDEA.*   
 - *Clone the repository*  
-   - git clone https://https://github.com/Naila-Nur99/Web-Automation-using-TestNG.git>
+   - git clone https://github.com/Fariha39/Web-Automation-using-TestNG-Selenium>
 - *Import the project* into IntelliJ and ensure all dependencies in build.gradle (Selenium, TestNG, Rest-Assured, Allure, JavaFaker, etc.) are configured
 - *Run tests:*  
    - gradle clean test or use IntelliJ’s *Run* button. 
 - *Generate Allure report:*
    - allure serve allure-results 
   
-
-## Test Case Link
-
-   - [Click here for Positive & Negative Test cases](https://docs.google.com/spreadsheets/d/1Xgq3atwgbEB10wDTRiC6cGbgDwi2wREw/edit?usp=drive_link&ouid=105680020578634715377&rtpof=true&sd=true) 
 
 ## Record of Full Automation 
 
